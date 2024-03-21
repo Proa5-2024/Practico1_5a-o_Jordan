@@ -1,0 +1,31 @@
+.Footer-up{
+    background-color: rgb(38, 38, 47);
+    grid-column-start: 1;
+    grid-column-end: -1;
+    grid-row-start: 1;
+    grid-row-end: 4;
+}
+.Footer-dawn{
+    background-color: rgb(14, 14, 16);
+    height: 50px;
+    grid-column-start: 1;
+    grid-column-end: -1;
+    grid-row-start: 4;
+    grid-row-end: -2;
+}
+
+.Footer{
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: 1fr 1fr 1fr 1fr;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.instagram{
+    
+}
+
+.facebook{
+    
+}
