@@ -8,9 +8,26 @@ body {
     padding: 0;
     overflow-x: hidden;
     background-repeat: no-repeat;
-    background-color: #232222;
+    background-color: #1a1919;
     overflow-y: scroll;
 
+}
+
+.barba {
+    position: relative;
+    top: -115px;
+    left: 550px;
+
+}
+a {
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+    margin-left: 15px;
+    padding: 0;
+    cursor: pointer;
+
+}
 h1 {
     font-size: 60px;
     color: white;
@@ -21,7 +38,7 @@ h1 {
 
 .container {
     width: 650px;
-    height: 500px;
+    height: 680px;
     background-color: white;
     position: relative;
     top: -25px;
@@ -38,7 +55,54 @@ h1 {
 
 .contenido {
     background-color: white;
-    font-size: 22px;
+    font-size: 17px;
     color: black;
 
 }
+
+footer {
+    background-color: #1a1919;
+    height: 120px;
+
+}
+
+.facebook {
+    position: relative;
+    width: 110px;
+    top: -10px;
+    left: 415px;
+}
+
+.Twitter {
+    position: relative;
+    width: 100px;
+    top: -10px;
+    left: 420px;
+}
+
+.Instagram {
+    position: relative;
+    width: 100px;
+    top: -10px;
+    left: 435px;
+}
+
+.redes { 
+    position: relative;
+    top: 50px;
+    left: -310px;
+}
+
+button {
+    background-color: rgba(0, 0, 0, 0);
+    border-radius: 0;
+    border-color: rgba(0, 0, 0, 0);
+    
+}
+button :hover {
+    border-radius: 10px;
+    background-color: rgba(0, 0, 0, 0.40);
+}
+
+
+
