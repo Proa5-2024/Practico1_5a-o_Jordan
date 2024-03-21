@@ -5,6 +5,7 @@ Crear un sitio web que promueva juegos deportivos y de mesa escolares utilizando
 
 ----------------------------------------------------------------------------------------
 Link al Diseño de Figma: https://www.figma.com/file/THsigTqre6i2qiZOPOWrXp/InterTribus?type=design&node-id=0%3A1&mode=design&t=dGga03W5vNJewQsb-1
+Link a diseño de canva:https://www.canva.com/design/DAGAD00owoE/KLZoNBVGQ-4P2Im-Eb0lRQ/edit?utm_content=DAGAD00owoE&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 <h1> Integrantes </h1>
 <ul>
