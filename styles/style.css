@@ -1,38 +1,8 @@
-body    {
-    background-color: #272424;
-    margin: 0;         
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;             
+*{
+    margin: 0%;
+    padding: 0%;
 }
 
 
-nav {
-    position: fixed;
-    display: flex;
-    justify-content: space-between;
-}
-
-button  {
-    border: none;
-    background-color: transparent;
-    width: 30px;
-    cursor: grab;
-}
-
-a    {
-    width: 30px;
-    text-decoration: none;
-}
 
 
-main    {
-    background-color: blue;
-}
-
-p   {
-    color: white;
-}
-
-
-footer  {
-    background-color: blueviolet;
-}
