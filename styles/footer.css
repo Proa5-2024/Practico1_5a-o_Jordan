@@ -15,9 +15,23 @@
 }
 
 .Footer{
+    display: flex;
     display: grid;
     grid-template-columns: repeat(12, 1fr);
     grid-template-rows: 1fr 1fr 1fr 1fr;
     color: aliceblue;
     font-family: 'Courier New', Courier, monospace;
+}
+
+.instagram{
+    margin: 0%;
+    padding: 0%;
+    justify-items: center;
+    align-items: center;
+}
+
+.facebook{
+    margin: 0%;
+    padding: 0%;
+    grid-column-start: 2;
 }
