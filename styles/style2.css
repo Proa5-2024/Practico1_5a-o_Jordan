@@ -9,6 +9,12 @@ body {
     overflow-x: hidden;
     background-repeat: no-repeat;
     background-color: #1a1919;
+  
+        font-family: "Rubik Scribble", system-ui;
+        font-weight: 400;
+        font-style: normal;
+      
+      
     overflow-y: scroll;
 }
 .barba {
