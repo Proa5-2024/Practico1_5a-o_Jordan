@@ -149,3 +149,18 @@ button :hover {
     font-size: 24px;
 
 }
+.FondoAje{
+    background-image:url(../img/ajedres4.png);
+    background-size: cover;
+    background-position: auto;
+
+
+}
+
+.FondoHand{
+    background-image:url(../img/handball.png);
+    background-size: cover;
+    background-position: auto;
+
+
+}
