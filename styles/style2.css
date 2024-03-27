@@ -1,5 +1,5 @@
 body {
-    background-image:url(../img/Fondo.jpg);
+    background-image:url(../img/bocha1.png);
     background-size: cover;
     background-position: auto;
     width: 100%;
@@ -73,12 +73,11 @@ h1 {
     border-radius: 22px;
     box-shadow:black;
     scrollbar-shadow-color: #232222;
-    
 }
 
 .contenido {
     background-color: white;
-    font-size: 17px;
+    font-size: 15px;
     color: black;
 
 }
@@ -126,6 +125,25 @@ button :hover {
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.40);
 }
+.contenidoHand{
+    background-color: white;
+   
+    color: black;
+    font-size: 23px;
 
 
+}
+.contenidoLanza{
+    background-color: white;
+   
+    color: black;
+    font-size: 23px;
+}
+.contenidoAje{
 
+    background-color: white;
+   
+    color: black;
+    font-size: 23px;
+
+}
