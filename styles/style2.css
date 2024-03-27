@@ -1,4 +1,5 @@
 body {
+    position: inherit;
     background-image:url(../img/bocha1.png);
     background-size: cover;
     background-position: auto;
@@ -68,7 +69,8 @@ h1 {
     left: 120px;
     display: flex;
     align-items: top;
-    height: 100vh;
+    height: auto;
+    overflow: auto;
     padding: 0 20px;
     border-radius: 22px;
     box-shadow:black;
@@ -77,14 +79,21 @@ h1 {
 
 .contenido {
     background-color: white;
-    font-size: 15px;
+    font-size: 17px;
     color: black;
 
 }
 
+
 footer {
+    position: absolute;
+    top: auto;
+    padding: 10px 20px; 
+    height: auto;
+    left: 0;
+    width: 100%;
     background-color: #1a1919;
-    height: 120px;
+    
 
 }
 
@@ -111,7 +120,7 @@ footer {
 
 .redes { 
     position: relative;
-    top: 50px;
+    top: auto;
     left: -310px;
 }
 
@@ -129,7 +138,7 @@ button :hover {
     background-color: white;
    
     color: black;
-    font-size: 23px;
+    font-size: 24px;
 
 
 }
@@ -137,13 +146,13 @@ button :hover {
     background-color: white;
    
     color: black;
-    font-size: 23px;
+    font-size: 24px;
 }
 .contenidoAje{
 
     background-color: white;
    
     color: black;
-    font-size: 23px;
+    font-size: 24px;
 
 }
