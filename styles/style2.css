@@ -147,3 +147,10 @@ button :hover {
     font-size: 23px;
 
 }
+.FondoAje{
+    background-image:url(../img/Ajedrez.jpg);
+    background-size: cover;
+    background-position: auto;
+
+
+}
