@@ -30,28 +30,13 @@ a {
 
 }
 
-.barba {
-    position: relative;
-    top: -115px;
-    left: 550px;
-
-}
-a {
-    font-size: 40px;
-    color: white;
-    text-decoration: none;
-    margin-left: 15px;
-    padding: 0;
-    cursor: pointer;
-
-}
 h1 {
     font-size: 60px;
     color: white;
     position: relative;
     top: -20px;
     left: 120px;
-    }
+}
 
 .container {
     width: 650px;
@@ -70,14 +55,6 @@ h1 {
     scrollbar-shadow-color: #232222;
 }
 
-.contenido {
-    background-color: white;
-    font-size: 17px;
-    color: black;
-
-}
-
-
 footer {
     position: absolute;
     top: auto;
@@ -86,92 +63,24 @@ footer {
     left: 0;
     width: 100%;
     background-color: #1a1919;
-    
-
-}
-
-.facebook {
-    position: relative;
-    width: 110px;
-    top: -10px;
-    left: 415px;
-}
-
-.Twitter {
-    position: relative;
-    width: 100px;
-    top: -10px;
-    left: 420px;
-}
-
-.Instagram {
-    position: relative;
-    width: 100px;
-    top: -10px;
-    left: 435px;
-}
-
-.redes { 
-    position: relative;
-    top: auto;
-    left: -310px;
 }
 
 button {
     background-color: rgba(0, 0, 0, 0);
     border-radius: 0;
     border-color: rgba(0, 0, 0, 0);
-    
 }
 button :hover {
     border-radius: 10px;
     background-color: rgba(0, 0, 0, 0.40);
 }
-.contenidoHand{
+.contenidoPag{
     background-color: white;
-   
-    color: black;
-    font-size: 24px;
-
-
-}
-.contenidoLanza{
-    background-color: white;
-   
     color: black;
     font-size: 24px;
 }
-.contenidoAje{
-
-    background-color: white;
-   
-    color: black;
-    font-size: 24px;
-
-}
-.FondoAje{
-    background-image:url(../img/ajedres4.png);
-    background-size: cover;
-    background-position: auto;
 
 
-}
-
-.FondoHand{
-    background-image:url(../img/handball.png);
-    background-size: cover;
-    background-position: auto;
-
-
-}
-
-@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
-*{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
-}
 /*:::::Pie de Pagina*/
 .pie-pagina{
     width: 100%;
