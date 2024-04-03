@@ -20,15 +20,6 @@ body {
     left: 550px;
 
 }
-a {
-    font-size: 40px;
-    color: white;
-    text-decoration: none;
-    margin-left: 15px;
-    padding: 0;
-    cursor: pointer;
-
-}
 
 .barba {
     position: relative;
